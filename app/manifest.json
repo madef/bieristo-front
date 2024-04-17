@@ -1,0 +1,16 @@
+{
+  "background_color": "white",
+  "description": "Application de brassage.",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "static/image/icon.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    }
+  ],
+  "name": "Bieristo",
+  "short_name": "Bieristo",
+  "start_url": "/",
+  "scope": "/"
+}

@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    #RewriteBase /static/js/
+    RewriteCond %{REQUEST_URI} "^/js/"
+    RewriteCond %{REQUEST_URI} "!js$"
+    RewriteCond %{REQUEST_URI} "!json$"
+    #RewriteCond %{REQUEST_FILENAME} !-d
+    #RewriteCond %{REQUEST_FILENAME}\.js -f
+    RewriteRule ^(.*)$ /static/$1.js [L]
+</IfModule>

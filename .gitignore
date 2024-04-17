@@ -1,0 +1,7 @@
+*.swp
+*.swo
+docker/*/data
+docker/docker-compose.override.yml
+docker/env/development
+docker/env/production
+logs

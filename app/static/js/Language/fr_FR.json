@@ -1,0 +1,254 @@
+{
+  "Bieristo": {
+    "*": "Bieristo"
+  },
+  "Bieristo is a website app to pilot brewing systems based on Raspberry Pi cards.": {
+    "*": "Bieristo est une application web pour piloter des système de brassage basé sur des cartes Raspberry Pi."
+  },
+  "Request error: please try later": {
+      "*": "Erreur: merci de réessayer plus tard"
+  },
+  "My account": {
+    "*": "Mon compte"
+  },
+  "+ Board": {
+    "*": "+ Carte"
+  },
+  "Add": {
+      "*": "Ajouter"
+  },
+  "A board with the save token already exists": {
+    "*": "Une carte avec le même token existe"
+  },
+  "Add a new board": {
+      "*": "Ajouter une nouvelle carte"
+  },
+  "Edit the board \"%name%\"": {
+    "*": "Edition de la carte « %name% »"
+  },
+  "Edit": {
+    "*": "Éditer"
+  },
+  "Remove": {
+    "*": "Supprimer"
+  },
+  "Remove \"%name%\" confirmation": {
+    "*": "Confirmation des la supression \"%name%\""
+  },
+  "Are you sure you want to remove \"%name%\"": {
+    "*": "Êtes-vous certain de vouloir supprimer \"%name%\""
+  },
+  "Token": {
+    "*": "Token"
+  },
+  "Name": {
+    "*": "Nom"
+  },
+  "Update": {
+    "*": "Mettre à jour"
+  },
+  "The board configuration has been updated": {
+    "*": "La configuration de la carte a été mise à jour"
+  },
+  "The board has been removed": {
+    "*": "La carte a été supprimée"
+  },
+  "The board has been saved": {
+    "*": "La carte a été ajouée"
+  },
+  "Resistor GPIO": {
+    "*": "GPIO de la resistance"
+  },
+  "Temperature sensor GPIO": {
+    "*": "GPIO de la sonde de température"
+  },
+  "Board \"%name%\"": {
+    "*": "Carte « %name% »"
+  },
+  "404 - Page Not Found": {
+    "*": "404 - Page non trouvée"
+  },
+  "Bieristo App [EO Brewer], is an <em>open source</em> system for automating your brewery with electronics boards like Rasberry PI.": {
+    "*": "Bieristo App [EO Brasseur], est un système <em>open source</em> pour automatiser votre brasserie avec des cartes électroniques comme Rasberry PI."
+  },
+  "Email address": {
+    "*": "Adresse de courriel"
+  },
+  "* Email address": {
+    "*": "* Adresse de courriel"
+  },
+  "Password": {
+    "*": "Mot de passe"
+  },
+  "Create or Login": {
+    "*": "Création ou Connexion"
+  },
+  "The board id must be a string composed with letters, numerics, underscore (_) or hyphen (-). Spaces and other chars are forbiden.": {
+    "*": "L'identifiant de carte doit être composé de lettres, de chiffres, de tiret bas (_) ou de tiret (-). Les espaces et autres caractères sont interdit."
+  },
+  "Missing email": {
+    "*": "L'email est manquant"
+  },
+  "Missing token": {
+    "*": "Le token est manquant"
+  },
+  "Missing name": {
+    "*": "Le nom est manquant"
+  },
+  "Missing password": {
+    "*": "Le mot de passe est manquant"
+  },
+  "Missing board id": {
+    "*": "L'identifiant de la carte est manquant"
+  },
+  "Sparge kettle": {
+    "*": "Cuve d'eau de rinçage"
+  },
+  "Mashing kettle": {
+    "*": "Cuve d'empatage"
+  },
+  "Sparge": {
+    "*": "Eau de rinçage"
+  },
+  "Mashing": {
+    "*": "Empatage"
+  },
+  "Fermenter": {
+    "*": "Fermenteur"
+  },
+  "Board id": {
+    "*": "Identifiant de la carte"
+  },
+  "The configuration has been copied in clipboard": {
+    "*": "La configuration a été copiée dans le presse-papier"
+  },
+  "Temperature delta for power adaptation": {
+    "*": "Delta de température d'adaptation de la puissance"
+  },
+  "Temperature delta before cut-off": {
+    "*": "Delta de température avant coupure"
+  },
+  "Heating GPIO": {
+    "*": "GPIO du réchauffement"
+  },
+  "Cooling GPIO": {
+    "*": "GPIO du refroidisseur"
+  },
+  "Temperature delta to activate cooling": {
+    "*": "Delta de température pour activer le refroidissement"
+  },
+  "Temperature delta to activate heating": {
+    "*": "Delta de température pour activer le réchauffement"
+  },
+  "Cancel": {
+    "*": "Annuler"
+  },
+  "Add heat unit": {
+    "*": "+ Unité de chauffe"
+  },
+  "Add fermenter unit": {
+    "*": "+ Unité de fermentation"
+  },
+  "Heat unit": {
+    "*": "Unité de chauffe"
+  },
+  "Fermenter unit": {
+    "*": "Unité de fermentation"
+  },
+  "Default pannel": {
+    "*": "Onglet par défault"
+  },
+  "Update my profile": {
+    "*": "Mettre à jour mon profil"
+  },
+  "Logout": {
+    "*": "Déconnexion"
+  },
+  "Are you sure you want to logout?": {
+    "*": "Êtes-vous certain de vouloir vous déconnecter ?"
+  },
+  "Password lost": {
+    "*": "Mot de passe oubié"
+  },
+  "You have lost your password. A link to recover your password will be sent you by email.": {
+    "*": "Vous avez perdu votre mot de passe. Un lien de récupération vous sera envoyé par email."
+  },
+  "Send me the link": {
+    "*": "Envoyez-moi le lien"
+  },
+  "I do not have lost my password": {
+    "*": "Je n'ai pas perdu mon mot de passe"
+  },
+  "Check your email and click on the link.": {
+    "*": "Vérifiez vos emails et cliquez sur le lien."
+  },
+  "* Current password": {
+    "*": "* Mot de passe actuel"
+  },
+  "Change my password": {
+    "*": "Changer mon mot de passe"
+  },
+  "Your password was updated.": {
+    "*": "Votre mot de passe a été mis à jour."
+  },
+  "Modify my password": {
+    "*": "Modifier mon mot de passe"
+  },
+  "Enter your email and your new password.": {
+    "*": "Entrer votre email et votre nouveau mot de passe."
+  },
+  "Your profile was updated": {
+    "*": "Profil mis à jour"
+  },
+  "Invalid password": {
+    "*": "Mot de passe invalide"
+  },
+  "Planner of \"%unitName%\" (%boardName%)": {
+    "*": "Plannification de « %unitName% » (%boardName%)"
+  },
+  "Add a step": {
+    "*": "Ajouter une étape"
+  },
+  "Apply": {
+    "*": "Appliquer"
+  },
+  "Apply and run": {
+    "*": "Appliquer et jouer"
+  },
+  "Stop": {
+    "*": "Stopper"
+  },
+  "Yes": {
+    "*": "Oui"
+  },
+  "Are you sure you want to start this step?": {
+    "*": "Êtes-vous certain de vouloir demarrer cette étape ?"
+  },
+  "Are you sure you want to stop the planner?": {
+    "*": "Êtes-vous certain de vouloir stopper la plannification ?"
+  },
+  "Are you sure you want to remove the planner?": {
+    "*": "Êtes-vous certain de vouloir supprimer la plannification ?"
+  },
+  "Planner has been updated.": {
+    "*": "La plannification a été mise à jour."
+  },
+  "Step %stepNumber%": {
+    "*": "Étape %stepNumber%"
+  },
+  "Are you sure you want to remove this step?": {
+    "*": "Êtes-vous certain de vouloir supprimer cette étape ?"
+  },
+  "Please define non null duration for step %stepNumber%.": {
+    "*": "Veuillez définir un durée pour l'étape %stepNumber%."
+  },
+  "Temperature Chart": {
+    "*": "Courbe de température"
+  },
+  "The start date must be before the end date.": {
+    "*": "La date de début doit être antérieur à la date de fin."
+  },
+  "Interval between the two dates must be lower than one year.": {
+    "*": "L'intervalle entre les deux dates doit être inférieur à un an."
+  }
+}

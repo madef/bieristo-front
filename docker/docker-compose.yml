@@ -1,0 +1,17 @@
+version: '3.0'
+
+services:
+  bieristo_front:
+    container_name: bieristo_front
+    image: lavoweb/php-8.3
+    restart: always
+    volumes:
+      - ../logs/:/var/www/logs
+      - ../app:/var/www/html
+      - ./php/config.php:/var/www/config.php
+      - ./php/custom.ini:/usr/local/etc/php/conf.d/custom.ini
+    networks:
+      - 'web'
+networks:
+  web:
+    external: true

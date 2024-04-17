@@ -1,0 +1,5 @@
+DOMAIN = 'bieristo.local'
+DOMAIN_PREFIX='https://'
+API_DOMAIN='api.bieristo.local'
+API_PREFIX='https://'
+DEV_MOD=1
